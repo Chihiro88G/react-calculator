@@ -22,7 +22,7 @@ const Divide = (props) => {
     }
 
     return(
-        <button onClick={clickDivide} className={'calButton'}>➗</button>
+        <button onClick={clickDivide} className={'calButton'}><img src="https://img.icons8.com/ios-glyphs/344/divide.png" alt="" /></button> 
     )
 }
 

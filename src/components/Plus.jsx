@@ -10,8 +10,8 @@ const Plus = (props) => {
     }
 
     return (
-        <button onClick={clickPlus} className={'calButton'}>➕</button>
-    )
+        <button onClick={clickPlus} className={'calButton'}><img src="https://img.icons8.com/ios-glyphs/344/plus-math.png" alt="" /></button>
+        )
 }
 
 export default Plus;

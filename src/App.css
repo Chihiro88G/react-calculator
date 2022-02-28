@@ -32,9 +32,15 @@ button {
   font-size: small;
   padding-top: 11px;
   background-color: aquamarine;
+  padding-bottom: 12px;
 }
 
 .cButton {
   padding-right: 17px;
 }
+
+img {
+  width: 16px;
+}
+
 

@@ -10,7 +10,7 @@ const Minus = (props) => {
     }
 
     return (
-        <button onClick={clickMinus} className={'calButton'}>➖</button>
+        <button onClick={clickMinus} className={'calButton'}><img src="https://img.icons8.com/material-rounded/344/minus.png" alt="" /></button>
     )
 }
 

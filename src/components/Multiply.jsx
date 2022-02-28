@@ -21,7 +21,7 @@ const Multiply = (props) => {
     }
 
     return (
-        <button onClick={clickMultiply} className={'calButton'}>✖️</button>
+        <button onClick={clickMultiply} className={'calButton'}><img src="https://img.icons8.com/ios-glyphs/344/multiply.png" alt="" /></button>
     )
 }
 
